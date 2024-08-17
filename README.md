@@ -1,5 +1,6 @@
 # AutoPlay-1.0
  A forge mod (link to Readme.md)
+Minecraft: 1.20.2, Forge: 48.1.0, Dependencies: Geckolib-1.20.2-4.3.1
 zh_cn:
 大致主线：
     1.收集铁做铁手臂和铁假肢并右键融合，以及对应的数据库（如：铁手臂控制数据库）
