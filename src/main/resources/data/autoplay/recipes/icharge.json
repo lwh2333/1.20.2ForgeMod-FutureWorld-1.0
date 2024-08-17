@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": {
+      "item": "minecraft:redstone"
+    },
+    "*": {
+      "item": "minecraft:iron_ingot"
+    }
+  },
+  "pattern": [
+    "***",
+    "###",
+    "***"
+  ],
+  "result": {
+    "item": "autoplay:icharge"
+  },
+  "show_notification": true
+}

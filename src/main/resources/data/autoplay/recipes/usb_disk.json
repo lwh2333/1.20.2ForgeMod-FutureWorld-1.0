@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": {
+      "item": "minecraft:iron_ingot"
+    },
+    "*": {
+      "item": "minecraft:blue_dye"
+    }
+  },
+  "pattern": [
+    " **",
+    "###",
+    " **"
+  ],
+  "result": {
+    "item": "autoplay:usb_disk"
+  },
+  "show_notification": true
+}

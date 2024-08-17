@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "autoplay:block/chat_gpt_data_base",
+      "y": 270
+    },
+    "facing=south": {
+      "model": "autoplay:block/chat_gpt_data_base",
+      "y": 90
+    },
+    "facing=west": {
+      "model": "autoplay:block/chat_gpt_data_base",
+      "y": 180
+    },
+    "facing=east": {
+      "model": "autoplay:block/chat_gpt_data_base"
+    }
+  }
+}

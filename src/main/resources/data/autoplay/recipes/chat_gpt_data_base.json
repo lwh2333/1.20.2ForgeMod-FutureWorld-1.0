@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": {
+      "item": "autoplay:empty_knowledge_bottle"
+    },
+    "*": {
+      "item": "minecraft:redstone"
+    },
+    "&": {
+      "tag": "minecraft:stone_crafting_materials"
+    }
+  },
+  "pattern": [
+    "&*&",
+    "&#&",
+    "&&&"
+  ],
+  "result": {
+    "item": "autoplay:chat_gpt_data_base"
+  },
+  "show_notification": true
+}

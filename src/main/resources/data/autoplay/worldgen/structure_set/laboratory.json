@@ -1,0 +1,14 @@
+{
+  "structures": [
+    {
+      "structure": "autoplay:laboratory",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "salt": 1642136474,
+    "spacing": 24,
+    "separation": 8,
+    "type": "minecraft:random_spread"
+  }
+}

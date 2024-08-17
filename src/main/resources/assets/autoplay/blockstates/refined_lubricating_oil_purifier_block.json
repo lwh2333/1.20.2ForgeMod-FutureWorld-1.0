@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "autoplay:block/refined_lubricating_oil_purifier_block",
+      "y": 270
+    },
+    "facing=south": {
+      "model": "autoplay:block/refined_lubricating_oil_purifier_block",
+      "y": 90
+    },
+    "facing=west": {
+      "model": "autoplay:block/refined_lubricating_oil_purifier_block",
+      "y": 180
+    },
+    "facing=east": {
+      "model": "autoplay:block/refined_lubricating_oil_purifier_block"
+    }
+  }
+}
