@@ -1,4 +1,4 @@
-# AutoPlay-1.0
+# 1.20.2ForgeMod-FutureWorld-1.0
 Minecraft: 1.20.2, Forge: 48.1.0, Dependencies: Geckolib-1.20.2-4.3.1  
 ## zh_cn:  
 大致主线：  
